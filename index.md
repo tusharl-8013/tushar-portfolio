@@ -12,7 +12,7 @@ Welcome! I’m a full-stack Magento Developer and ERP specialist with 7+ years o
 ## 🔍 About Me
 
 - Expert in Magento 1 & 2, Laravel, and Odoo ERP
-- Built 50+ modules and customized workflows
+- Built 25+ modules and customized workflows
 - Integrated 25+ shipping carriers & marketplaces (Amazon, eBay, CDiscount)
 - Working at **BoostMyShop International** on SaaS and ERP platforms
 
