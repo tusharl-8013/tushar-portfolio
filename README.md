@@ -1,11 +1,11 @@
 # Tushar Lathiya – E-commerce Magento Developer & ERP Integration Specialist
 
-## About Me
+## 🚀 About Me
 Results-driven and passionate Magento Developer with **7+ years of experience** in building scalable e-commerce platforms and ERP solutions. Specialized in **B2B/B2C systems**, **API integrations**, and **Magento 2 module development**. Proven ability to deliver robust backend architectures and seamless third-party integrations. Currently working at **BoostMyShop International**, contributing to the development of advanced ERP and fulfillment solutions.
 
 ---
 
-## Skills Snapshot
+## 🛠️ Skills Snapshot
 - **Languages:** PHP (Magento, Laravel), Python (Odoo)  
 - **Web Technologies:** JavaScript, jQuery, AJAX, HTML5, Core PHP  
 - **Databases:** MySQL, PostgreSQL  
@@ -16,7 +16,7 @@ Results-driven and passionate Magento Developer with **7+ years of experience** 
 
 ---
 
-## Professional Experience
+## 📈 Professional Experience
 
 ### Boostmyshop Pvt. Ltd. – Magento Developer (Jun 2020 – Present)
 - Integrated APIs for Amazon, eBay, CDiscount, Shopify, PrestaShop, etc.
@@ -31,7 +31,7 @@ Results-driven and passionate Magento Developer with **7+ years of experience** 
 
 ---
 
-## Project Portfolio
+## 🌍 Project Portfolio
 
 ### MyFulfillment – ERP SaaS Platform
 - Role: Backend Developer
@@ -59,7 +59,7 @@ Results-driven and passionate Magento Developer with **7+ years of experience** 
 
 ---
 
-## Magento Extensions Developed
+## 🧩 Magento Extensions Developed
 - SEO Suite
 - Extra Charge by Payment
 - FlexiShipping
@@ -73,17 +73,17 @@ Results-driven and passionate Magento Developer with **7+ years of experience** 
 
 ---
 
-## Education
+## 🎓 Education
 **B.E. in Computer Engineering** – Darshan Institute of Engineering & Technology (GTU)  
 **Diploma in Computer Engineering** – Balaji Institute (GTU)
 
 ---
 
-## Languages
+## 🌐 Languages
 - English, Hindi, Gujarati
 
 ---
 
-## Contact
+## 📬 Contact
 - Email: tusharlathiya1996@gmail.com  
 - LinkedIn: [linkedin.com/in/tushar-lathiya-5ba569119](https://www.linkedin.com/in/tushar-lathiya-5ba569119)
