@@ -3,48 +3,48 @@ layout: default
 title: Tushar Lathiya Portfolio
 ---
 
-# 👨‍💻 Tushar Lathiya – Magento Developer & ERP Specialist
+# 👨‍💻 Tushar Lathiya – Magento Developer & ERP Integration Specialist
 
-Welcome to my portfolio! I’m a **Magento Developer** and **ERP Integration Specialist** with **7+ years of experience** building powerful e-commerce solutions.
+Welcome! I’m a full-stack Magento Developer and ERP specialist with 7+ years of experience in building and scaling B2B/B2C e-commerce systems.
 
 ---
 
 ## 🔍 About Me
 
-- 🔧 Expert in Magento 1 & 2, Laravel, and Odoo
-- 🌐 Integrated 25+ shipping carriers (DHL, DPD, Canada Post…)
-- 🛒 Synced with Amazon, eBay, CDiscount, Shopify
-- 🧱 Built custom modules, ERP workflows, and SaaS tools
-- 💼 Currently working at **BoostMyShop International**
+- Expert in Magento 1 & 2, Laravel, and Odoo ERP
+- Built 50+ modules and customized workflows
+- Integrated 25+ shipping carriers & marketplaces (Amazon, eBay, CDiscount)
+- Working at **BoostMyShop International** on SaaS and ERP platforms
 
 ---
 
-## 🔗 Quick Links
+## 🔗 Explore My Work
 
-- 🌟 [Projects](./projects)
+- 🧩 [Projects](./projects)
 - 📄 [Resume](./resume)
-- 📬 [Contact Me](./contact)
+- 📬 [Contact](./contact)
 
 ---
 
-## 🛠️ Tech Stack Snapshot
+## 🌟 Featured Project: MyFulfillment
 
-| PHP / Laravel | Magento 2 | MySQL / PostgreSQL |
-|---------------|-----------|--------------------|
-| Python (Odoo) | HTML / JS / AJAX | REST / SOAP APIs |
+MyFulfillment is a robust ERP SaaS platform designed to manage stock, suppliers, orders, and shipping seamlessly across multiple channels.
 
----
-
-## 📸 Screenshot Preview (Optional)
-
-You can even embed a screenshot of your UI or system:
-
-![MyFulfillment Screenshot](./assets/preview.jpg)
-
-> 🔁 Replace `assets/preview.jpg` with any image you upload
+![MyFulfillment Overview](./myfulfillment-overview.png)
 
 ---
 
-## 🚀 Let's Connect
+## 🧠 Tech Snapshot
 
-If you’d like to collaborate, hire, or just chat about B2B e-commerce systems, [reach out here »](./contact)
+| Language | Frameworks | APIs & Tools |
+|----------|------------|--------------|
+| PHP, Python | Laravel, Magento 2, Odoo | REST, SOAP, MySQL, PostgreSQL |
+
+---
+
+## 📫 Connect
+
+📧 [tusharlathiya1996@gmail.com](mailto:tusharlathiya1996@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/tushar-lathiya-5ba569119)
+
+---
