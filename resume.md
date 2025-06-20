@@ -7,7 +7,7 @@ title: Resume
 
 Download my resume directly:
 
-👉 [📥 Download Resume (PDF)](resume.pdf)
+👉 [📥 Download Resume (PDF)](./TUSHAR_LATHIYA.pdf)
 
 ---
 
