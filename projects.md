@@ -5,60 +5,53 @@ title: Projects
 
 # 🧩 Projects
 
-Explore some of the key projects I've contributed to during my Magento and ERP development career.
+Explore some of the key projects I've worked on as a Magento and ERP developer.
 
 ---
 
 ### 🔹 MyFulfillment – ERP SaaS Platform
-A full-featured ERP solution for e-commerce businesses.
 
-**Tech Stack:** Magento 2, PHP, MySQL, REST/SOAP APIs  
+A full-featured SaaS ERP platform tailored for e-commerce companies, designed to streamline operations across warehouse, purchasing, shipping, and inventory.
+
+**Tech Stack:** Magento 2, Laravel, MySQL, REST/SOAP APIs  
 **Role:** Backend Developer  
 **Key Features:**
-- Product, Order, and Stock synchronization with marketplaces
-- Warehouse and Inventory Management
-- Shipping carrier integration (DPD, Canada Post, etc.)
-- Kardex warehouse system support
-- EDI file handling
+- Product, order, and stock synchronization
+- Marketplace API integrations (Amazon, eBay, Shopify)
+- Carrier integrations (DPD, DHL, Canada Post, UPS, TNT)
+- Kardex WMS & EDI support
+- Warehouse automation and supplier stock import
+
+![MyFulfillment Overview](./myfulfillment-overview.png)
 
 ---
 
 ### 🔹 [Beneoshop](https://www.beneoshop.com)
-E-commerce portal for toys, trampolines, and party equipment.
-
-**Tech Stack:** Magento 2, PHP, MySQL  
-**Responsibilities:**
-- Backend logic
-- UI customization
-- QA testing and optimization
+Online store for party gear, trampolines, and games.  
+**Role:** Backend Developer (Magento 2 customizations)
 
 ---
 
 ### 🔹 [Bestthailed](https://www.bestthailed.com)
-Online retailer for LED lights and accessories.
-
-**Tech Stack:** Magento 2, PHP, MySQL  
-**Role:** Backend Developer
+LED lighting e-commerce portal built on Magento 2.  
+**Role:** Backend Developer (API/ERP sync)
 
 ---
 
 ### 🔹 [Jewellerymarvels](https://www.jewelmarvels.com)
-Jewelry and diamond portal.
-
-**Role:** Backend & Extension Developer
+Jewelry e-commerce site with custom Magento modules.  
+**Role:** Extension Developer (reviews, filters, product logic)
 
 ---
 
 ### 🔹 [Elektrickeauticka](https://www.elektrickeauticka.sk)
-Online store for electric vehicles, bikes, and toys.
-
-**Role:** Backend + Frontend Developer
+E-store for electric toys and cars.  
+**Role:** Backend + UI Enhancements
 
 ---
 
 ### 🔹 [Cokoladovefontany](https://www.cokoladovefontany.sk)
-Marketplace for chocolate fountains and party items.
-
-**Role:** Backend Developer, UI Customizer
+Marketplace for chocolate fountains and catering products.  
+**Role:** Custom module dev & integration
 
 ---
